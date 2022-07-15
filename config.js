@@ -26,10 +26,10 @@ global.webm = 'https://saweria.co/Mekxus'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 15.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/file/d1817c4baf9af12b12232.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/d1817c4baf9af12b12232.jpg' //ini juga ganti
 global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
-global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
+global.donasi = 'https://telegra.ph/file/f30ddf258b0d8fa240f97.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '©Lavian Bot'
